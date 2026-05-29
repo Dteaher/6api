@@ -1,0 +1,14 @@
+﻿asgiref
+attrs
+Django
+djangorestframework
+drf-spectacular
+inflection
+jsonschema
+jsonschema-specifications
+PyYAML
+referencing
+rpds-py
+sqlparse
+tzdata
+uritemplate
